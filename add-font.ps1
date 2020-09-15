@@ -29,7 +29,7 @@
   
   .NOTES
     Version: 1.0
-    Author: Mike Stine
+    Author: Blackcodesun
     Creation Date: 7/11/2018
     This script is Idempotent
     Unregistered powershell scripts are restricted by default.  run the powershell command 'Set-ExecutionPolicy unrestricted' as an administrator before executing this script.  
